@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.3",
+  "name": "CastleDemo",
+  "id": "d9035b10-9a90-47ba-9551-fa24320ee872",
+  "isNew": false
+}
